@@ -116,3 +116,17 @@ python client.py
 
 See `requirements.txt`.  
 Recommended Python: **3.8**.
+
+---
+
+## Dataset
+
+**Citation (APA):**
+Sumedh1507. (n.d.). *Teen Phone Addiction* \[Data set]. Kaggle. Retrieved September 15, 2025, from [https://www.kaggle.com/datasets/sumedh1507/teen-phone-addiction](https://www.kaggle.com/datasets/sumedh1507/teen-phone-addiction)
+
+**Methodology (as reported by the author):**
+
+* **Survey-based collection:** data gathered via structured questionnaires from high-school and early-college students (ages 13–21).
+* **Voluntary & anonymous:** participation was voluntary; all identifying details were excluded to protect privacy.
+* **Time window:** collected over a 3-month period across several urban and semi-urban schools.
+* **Consent:** all participants (or their guardians) provided consent for anonymous research use.
